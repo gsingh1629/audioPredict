@@ -1,0 +1,12 @@
+# Sound File
+.amr
+.wav
+.mp3
+
+
+# Exculde Folders
+inputSoundData
+iot_audio_dataset
+
+# Other Excludes
+.png
